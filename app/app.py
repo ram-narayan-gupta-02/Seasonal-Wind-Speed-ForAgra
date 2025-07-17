@@ -6,7 +6,7 @@ import joblib
 from datetime import datetime
 
 # ------------------- Load Model -------------------
-model = joblib.load("Agra/model/seasonal_lgbm_model.pkl")
+model = joblib.load("model/seasonal_lgbm_model.pkl")
 
 # ------------------- Function to Get Season -------------------
 def get_season(month):
