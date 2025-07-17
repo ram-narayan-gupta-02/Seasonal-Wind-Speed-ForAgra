@@ -1,4 +1,0 @@
-📊 Model Evaluation Metrics
-MSE: 21.4237
-MAE: 3.3535 m/s
-R² Score: 0.8691

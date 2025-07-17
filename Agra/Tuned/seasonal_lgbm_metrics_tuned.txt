@@ -1,6 +1,0 @@
-MSE: 11.8193
-MAE: 2.5191
-R2 Score: 0.9278
-
-Best Parameters:
-{'subsample': 0.8, 'num_leaves': 100, 'n_estimators': 300, 'max_depth': -1, 'learning_rate': 0.1, 'colsample_bytree': 0.8}
